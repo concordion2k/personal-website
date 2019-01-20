@@ -6,6 +6,6 @@ export default class NavButton extends React.Component {
         super(props)
     }
     render() {
-        return <button>{this.props.name}</button>
+        return <button className="button">{this.props.name}</button>
     }
 }
