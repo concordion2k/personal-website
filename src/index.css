@@ -1,0 +1,13 @@
+.nav {
+    text-decoration: aliceblue;
+    background: #000;
+}
+
+.button {
+    background-color: silver;
+}
+
+.link {
+    color: aliceblue;
+    padding: 10px;
+}

@@ -1,8 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import NavBar from './components/navbar'
+import AppRouter from './App'
+import './index.css'
 
 ReactDOM.render(
-    <NavBar />,
+    <AppRouter />,
     document.getElementById('root')
 )
