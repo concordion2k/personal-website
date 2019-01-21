@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom'
+import * as Bootstrap from 'react-bootstrap'
 import React from 'react'
 
 import HomePage from './components/home/HomePage'
