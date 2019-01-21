@@ -1,6 +1,22 @@
-.nav {
+nav {
     text-decoration: aliceblue;
     background: #000;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h2 {
+    padding: 10;
+}
+
+img {
+    padding: 20px;
+}
+
+div {
+    padding: 10px;
 }
 
 .button {
