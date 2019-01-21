@@ -1,5 +1,5 @@
 import React from 'react'
-import NavButton from './button'
+import NavButton from './NavButton'
 
 export default class NavBar extends React.Component {
 
